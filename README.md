@@ -2,16 +2,16 @@
 This repository contains code and resources for image classification using Convolutional Neural Networks (CNN).
 
 # Table of Contents
-- Introduction
-- Installation
-- Usage
-- Dataset
-- Preprocessing
-- Model Training
-- Evaluation
+- [Introduction](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#introduction)
+- [Installation](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#installation)
+- [Usage](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#usage)
+- [Dataset](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#dataset)
+- [Preprocessing](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#preprocessing)
+- [Model Training](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#model-training)
+- [Evaluation](https://github.com/edilauxillea/Image-Classification/blob/main/README.md#evaluation)
   
 # Introduction
-Image classification is a fundamental task in computer vision that involves assigning labels to images based on their content. This project focuses on using Convolutional Neural Networks (CNN) to train a model capable of classifying images into predefined categories. The repository provides code and instructions to preprocess the data, train a CNN model, and evaluate its performance.
+Image classification is a fundamental task in computer vision that involves assigning labels to images based on their content. This project focuses on using [Convolutional Neural Networks (CNN)](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) to train a model capable of classifying images into predefined categories. The repository provides code and instructions to preprocess the data, train a CNN model, and evaluate its performance.
 
 # Installation
 To use the code in this repository, perform the following steps:
